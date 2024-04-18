@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  hi 안녕안녕하세요
+  hi 안녕안녕!!
 </template>
 
 <script>
